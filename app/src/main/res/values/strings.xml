@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Healthcare Project</string>
+    <string name="lab_test">LAB TEST</string>
+    <string name="online_aid">Online Aid</string>
+</resources>
